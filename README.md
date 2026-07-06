@@ -1,3 +1,5 @@
+> 🔗 Competition: [Kaggle Playground Series S6E6](https://www.kaggle.com/competitions/playground-series-s6e6)
+
 # Stellar Classification — Kaggle Playground Series S6E6
 
 **Final Rank: 576 / 2816 (Top 20.5%)**
